@@ -1,4 +1,4 @@
-"","team_id","team","team_abbr","wins","losses","pf","pa","logo"
+"","team_id","team","team_abbr","wins","losses","points_for","points_against","logo"
 "1",30,"Switzerland","SUI",4,5,51,54,"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/800px-Civil_Ensign_of_Switzerland.svg.png"
 "2",159,"Denmark","DEN",1,8,36,71,"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/800px-Flag_of_Denmark.svg.png"
 "3",184,"Norway","NOR",4,5,58,53,"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/800px-Flag_of_Norway.svg.png"
