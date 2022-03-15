@@ -8,7 +8,7 @@ Repository for the 2022 Beijing Winter Olympics men's, women's, and mixed double
 - Player, game, and team ID numbers provided for joins.
 - Data was taken from the NBC Olympic API using R.
 - Project inspired by [Alyssa Longmuir's Twitch streams](https://www.twitch.tv/aklongmuir) working with women's hockey data.
-- Package coming soon? 👀
+- Use [sweepR](https://github.com/jbrooksdata/sweepR) for easy access!
 
 ## References
 
